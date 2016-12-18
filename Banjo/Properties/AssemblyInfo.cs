@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleAppManager")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Banjo")]
+[assembly: AssemblyDescription("Console application wrapper for Telnet access to command line.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleAppManager")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyProduct("Banjo")]
+[assembly: AssemblyCopyright("Copyright © Christopher Courson, 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e4c1809b-1eb1-429c-bb72-0fac5f0fcf70")]
+[assembly: Guid("e4bf51ba-5981-4839-9848-345a7a8d9988")]
 
 // Version information for an assembly consists of the following four values:
 //
